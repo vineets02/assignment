@@ -1,0 +1,23 @@
+[
+  {
+    id: Date.now()*math.random()*2,
+    title: New,
+    cards: [
+      {
+        id: Date.now()*Math.random(),
+        title: jk's opportunity,
+        tasks: [],
+        labels: [
+          {
+            text: frontend,
+            color: blue
+          }
+        ],
+        desc: idsdfjsfjsfsjfsk,
+        date: ""
+      },
+
+      
+    ]
+  }
+]
